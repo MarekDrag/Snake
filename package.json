@@ -1,0 +1,22 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "deploy": "gh -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarekDrag/Snake.git"
+  },
+  "author": "marek drag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarekDrag/Snake/issues"
+  },
+  "homepage": "https://marekdrag.github.io/Snake",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
